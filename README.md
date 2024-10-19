@@ -8,6 +8,8 @@
 ### DESCRIPTION
 DEDSEC-AVSCAN is a powerful and comprehensive antivirus solution designed specifically for Linux environments. Whether you need to scan individual files or entire directories, this versatile tool ensures your system remains protected against a wide range of malware, including viruses, Trojans, worms, ransomware, rootkits, and other malicious threats. </h4>
 
+![2024-10-20_07-39](https://github.com/user-attachments/assets/c0c4e23c-783b-49b2-9835-86976a760f85)
+
 ### INSTALLATION
     * git clone https://github.com/0xbitx/DEDSEC-AVSCAN.git
     * cd DEDSEC-AVSCAN
